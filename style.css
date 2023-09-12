@@ -3032,7 +3032,7 @@ select.mobile-device {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #054f60; /* Cambia el color de fondo según tus preferencias */
+  background-image: radial-gradient(ellipse at center, #03262e, #054f60); /* Cambia el color de fondo según tus preferencias */
   z-index: 100; 
     }
 .menuClass h3{
